@@ -40,9 +40,6 @@
   - [Services](#services)
   - [Style](#style)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 ## Animation
 
 Customized animation widgets used in the project.
